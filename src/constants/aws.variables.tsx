@@ -1,0 +1,1 @@
+export const DYNAMO_IDENTITY_POOL_ID = ''
